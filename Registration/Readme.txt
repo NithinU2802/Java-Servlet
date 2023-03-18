@@ -1,0 +1,6 @@
+// Using webcontent to store the data..
+
+Jsp has an ability to validate the form and store data using predefined elements that can be implemented to 
+perform operations like getRequest and getResponse even with printwriter etc...
+
+//Jsp can provide an seprate html page to deliver output and execute java program within itself....
